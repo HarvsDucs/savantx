@@ -201,7 +201,7 @@ export function SecondaryFeatures() {
           </h2>
           <p className="mt-2 text-lg text-gray-600">
             Establishing clear core principles is crucial. These principles
-            should resonate with the company's commitment to security,
+            should resonate with the companys commitment to security,
             accountability, veracity, nurturing trust, and excellence. Here are
             nine core principles that align with these virtues.
           </p>
